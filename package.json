@@ -24,7 +24,7 @@
     "url": "https://github.com/nparashuram/cordova-plugin-browsersync.git"
   },
   "dependencies": {
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.26.7",
     "cheerio": "^1.0.0-rc.2",
     "csp-parse": "0.0.2",
     "elementtree": "^0.1.6",
